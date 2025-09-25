@@ -1,1 +1,1 @@
-const x = 2 +5
+const x = 2 + 6
