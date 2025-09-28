@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-const x = 2 + 8;
+const x = 3 + 8;
 console.log(x);
 =======
 const x = 2 + 8
