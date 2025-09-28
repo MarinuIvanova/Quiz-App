@@ -1,1 +1,2 @@
-const x = 2 + 6
+const x = 2 + 8;
+console.log(x);
